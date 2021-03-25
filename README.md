@@ -6,7 +6,7 @@
 # Hello 
 
 - 😄  Pronouns: Him/He
-- 🌱  Currently learning Web Development with NodeJS and React (upcoming projects)
+- 🌱  Learning Web Development with NodeJS and React (upcoming projects)
 - 📚  Extrovert book worm (Fan of Asimov's Series)
 - ❓  Philosopher and Soccer Addict ⚽️
 
