@@ -8,7 +8,7 @@
 - 😄  Pronouns: Him/He
 - 🌱  Currently learning Web Development with NodeJS and React (upcoming projects)
 - 📚  Extrovert book worm (Fan of Asimov's Series)
-- ❓  Philosopher
+- ❓  Philosopher and Soccer Addict ⚽️
 
 
 Thanks for stopping by.
