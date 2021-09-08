@@ -5,10 +5,8 @@
 
 # Hello 
 
-- 😄  Pronouns: Him/He
-- 🌱  Learning Web Development with NodeJS and React (upcoming projects)
-- 📚  Extrovert book worm (Fan of Asimov's Series & J.K. Rowling)
-- ❓  Philosopher and Soccer Addict ⚽️
+📚  Extrovert book worm (Fan of Asimov's Series & J.K. Rowling)
+❓  Philosopher and Soccer Addict ⚽️
 
 
 Thanks for stopping by.
